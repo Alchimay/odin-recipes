@@ -1,0 +1,1 @@
+This project is meant to showcase what I learned in The Odin Project Foundations Course up to HTML basics.
